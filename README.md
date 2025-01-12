@@ -11,7 +11,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/skale0181/react-structure.git
 
 Navigate to the project directory:
 
@@ -36,7 +36,7 @@ src/
 ├── services/          # API calls and service functions
 ├── state/             # Global state management
 ├── utils/             # Utility functions/helpers
-├── App.jsx            # Root component
+├── App.js             # Root component
 ├── index.js           # Entry point
 
 This structure promotes modularity and scalability, making the codebase easier to maintain and extend.
